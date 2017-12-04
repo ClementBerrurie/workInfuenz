@@ -1,7 +1,7 @@
 # workInfuenz
 ## Contributors : Michael Lootgieter & Clément Berrurier
 #### 4th year engineer project
-Using : 
+Lorem ipsum : 
 ```
-Scrapy
+Test1
 ```
