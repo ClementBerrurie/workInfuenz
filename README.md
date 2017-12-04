@@ -1,2 +1,4 @@
 # workInfuenz
-n0thing here:)
+## Contributors : Michael Lootgieter & Clément Berrurier
+## 4th year engineer project
+
